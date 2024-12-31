@@ -1,0 +1,38 @@
+body
+{
+	background-color: burlywood;
+}
+h1
+{
+	text-align: center;
+}
+h3
+{
+	background-color: mediumpurple;
+	color:black;
+	font-family: Verdana;
+	border: 2px solid seagreen;
+}
+p
+{
+	font-size: 20px;
+	color: darkblue;
+}
+table, th, td, tr
+{
+	border:3px solid ghostwhite;
+	border-collapse: collapse;
+
+}
+th
+{
+	background-color: yellow;
+}
+td
+{
+	text-align: center;
+}
+tr:hover
+{
+	background-color: lightsalmon;
+}
